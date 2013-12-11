@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author    = { 'Luc Vandal' =>  'http://www.futuretap.com/contact/',
                   'Ortwin Gentz' => 'http://edovia.com/company/#contact_form' }
   s.license   = 'BSD'
-  s.source    = { :git => 'https://github.com/sameer-bsb/InAppSettingsKit' }
+  s.source    = { :git => 'https://github.com/sameer-bsb/InAppSettingsKit.git', :tag=> 's.version' }
 
   s.source_files  = 'InAppSettingsKit/**/*.{h,m}'
   s.framework = 'MessageUI'

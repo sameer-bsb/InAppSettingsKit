@@ -1,4 +1,4 @@
-pod::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name      = 'InAppSettingsKit'
   s.version   = '2.0'
   s.platform  = :ios, '5.0'
